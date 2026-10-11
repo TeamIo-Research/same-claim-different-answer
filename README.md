@@ -3,7 +3,7 @@
 **Script and Stance: Do Frontier LLMs Treat the Same Political Claim Differently by Writing System and User Stance?**
 Team Io · Global South AI Safety Hackathon 2026 (Apart Research), 19–21 June 2026
 
-- Write-up: *We Found a Political Stance Effect in Frontier LLMs. It Turned Out to Be Our Own Judges.* (Medium)
+- Write-up: [*We Found a Political Stance Effect in Frontier LLMs. It Turned Out to Be Our Own Judges.*](https://tsukitora.medium.com/we-found-a-political-stance-effect-in-frontier-llms-it-turned-out-to-be-our-own-judges-57000a3111d9) (Medium)
 - The full hackathon report (submitted to Apart Research) describes the methods and results in detail.
 
 ## Pre-registration freeze
